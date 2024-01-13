@@ -7,6 +7,9 @@ length grows.
 The key concepts covered in this snake game include:
 
   -Object-oriented programming - Creating game objects like the snake segments, food dots, etc..
+  
   -Event handling - Detecting keypresses to move the snake.
+  
   -AWT graphics - Drawing the game interface and entities.
+  
   -Data structures - Using a linked list to represent the snake body.
